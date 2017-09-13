@@ -13,7 +13,3 @@ Among their other uses are the representation of signal flow in various electron
 #### Attachments
 * for more details, [complete report](https://github.com/MohamedMurad/signal-flow-graph-solver/blob/master/SFGReport.pdf)<br/>
 * [try it now](https://github.com/MohamedMurad/signal-flow-graph-solver/blob/master/run.jar)<br/>
-## Contact
-* e-mail: mohamedmorad.masry129@gmail.com
-* LinkedIn: [@LinkedIn](https://www.linkedin.com/in/m-murad/)
-* Facebook: [@Facebook](https://www.facebook.com/m.murad.Egy/)
